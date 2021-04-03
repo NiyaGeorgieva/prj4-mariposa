@@ -9,8 +9,9 @@
 }
 
 .title-text {
-  font-family: 'Roboto Condensed', sans-serif;
-  color: #ffffff;
+	font-family: 'Open Sans';
+	font-weight: bold;
+	color: #ba2ce3;
 }
 
 .navbar {
