@@ -62,3 +62,12 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: larger;
 }
+main h4 {
+  margin: 5px 0px;
+  color: #ba2ce3;
+}
+
+main p {
+  font-weight: lighter;
+}
+
