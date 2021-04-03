@@ -1,4 +1,4 @@
-# prj4-mariposa-groupwebsite
+# prj4-mariposa
  
 Niya Georgieva - 191858
 
