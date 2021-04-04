@@ -77,6 +77,15 @@ body {
 	margin-right: auto;
 }
 
+.image-flowchat img {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 500px;
+	width: 700px;
+}
+
 main h4 {
   margin: 5px 0px;
   color: #ba2ce3;
