@@ -1,3 +1,11 @@
+/* colors 
+dark purple: #ba2ce3
+hot pink: #ffc0e3
+background light pink: #fff0f0
+light hot pink: #ffdbef
+*/
+
+
 .container-fluid {
   background-color: #ba2ce3;
 }
@@ -62,6 +70,11 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: larger;
 }
+
+.jumbotron {
+	background-color: #ffc0e3; 
+}
+
 main h4 {
   margin: 5px 0px;
   color: #ba2ce3;
