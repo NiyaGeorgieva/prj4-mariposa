@@ -50,6 +50,7 @@ body {
   width: 70%;
   height: 50px;
   line-height: 35px;
+  margin-bottom: 20px;
 }
 .btn-register:hover {
   background-color: #ffc0e3;
@@ -65,7 +66,30 @@ body {
 .btn-register:active {
   background-color: #d390b4;
 }
-
+.btn-social {
+  background-color: #ba2ce3;
+  color: #ffdbef;
+  border: none;
+  width: 30%;
+  height: 50px;
+  line-height: 35px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.btn-social:hover {
+  background-color: #ffc0e3;
+  color: #ba2ce3;
+  font-weight: bold;
+  border-radius: 1px;
+  border-color: #ba2ce3;
+  border-style: solid;
+  width: 30%;
+  height: 50px;
+  line-height: 30px;
+}
+.btn-social:active {
+  background-color: #d390b4;
+}
 .nav-text {
   font-family: 'Open Sans', sans-serif;
   font-size: larger;
